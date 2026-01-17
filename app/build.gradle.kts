@@ -17,12 +17,12 @@ plugins {
 
 android {
     namespace = "com.metrolist.music"
-    compileSdk = 36
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.metrolist.music"
         minSdk = 26
-        targetSdk = 36
+        targetSdk = 35
         versionCode = 133
         versionName = "12.10.0"
 
